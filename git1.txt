@@ -1,0 +1,31 @@
+html>
+<html>
+<head>
+<title>ankita's personal site</title>
+</head>
+<body>
+<img src="anki.jpg" width=200 hieght=200>
+<h1>Ankita Bansal</h1>
+<p><em>Founder and Cto of <strong> the App Brewery </strong></em></p>
+<p><b>Currently I am pursuing b.tech in cse from seth jai prakash mukand lal institute of engineering and technology. i have completeted my school education from spring fields public school ,yamuna nagar
+. i like to spend me time . I like to interact with people but i wanted other person to start the conversation.</b></p>
+<hr>
+<h2>Books and Teachings</h2>
+<ul>
+<li>completed c and c++ language</li>
+<li>currently working on web development course</li>
+<h2><a href="anki.html">Hobbies</a></h2>
+<video width="300" height="300" control="control">
+<source src="yyy.mp4"type="video/mp4">
+<table border=3 >
+<tr>
+<td align="center">name</td>
+<td align="center">roll.no</td>
+</tr>
+<tr>
+<td>ankita</td>
+<td>1218217</td>
+</tr>
+</table>
+</body>
+</html>
